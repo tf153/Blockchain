@@ -1,1 +1,1 @@
-[{"inputs":[],"name":"getHelloMsg","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"}]
+[{"inputs":[],"name":"getHelloMessage","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"}]
